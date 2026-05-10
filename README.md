@@ -85,3 +85,13 @@ No Windows Server, instalar a Role de AD DS via Server Manager.
 <p align="center">
   <img src="./imgs/InteroperabilidadeSamba.png" width="600" title="Teste de Ping">
 </p>
+
+#### Virt-Manager (VMs e Rede Isolada)
+
+<p align="center">
+  <img src="./imgs/virtmanagervms.png" width="600" title="Teste de Ping">
+</p>
+ 
+ <p align="center">
+  <img src="./imgs/redeisolada.png" width="600" title="Teste de Ping">
+</p>
