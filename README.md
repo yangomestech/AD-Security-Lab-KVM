@@ -78,3 +78,10 @@ No Windows Server, instalar a Role de AD DS via Server Manager.
 <p align="center">
   <img src="./imgs/win11indomain.png" width="600" title="Teste de Ping">
 </p>
+
+
+#### Interoperabilidade com Samba (SMBD)
+
+<p align="center">
+  <img src="./imgs/InteroperabilidadeSamba.png" width="600" title="Teste de Ping">
+</p>
