@@ -60,45 +60,41 @@ No Windows Server, instalar a Role de AD DS via Server Manager.
 
 ### Evidências Técnicas
 <p align="center">
-#### Teste de Conectividade (ICMP) ####
+  <b>#### Teste de Conectividade (ICMP) ####</b>
 </p>
-
 
 <p align="center">
   <img src="./imgs/linuxpingserver.png" width="600" title="Teste de Ping">
 </p>
 
-
 <p align="center">
   <img src="./imgs/win11pinglinux.png" width="600" title="Teste de Ping">
 </p>
 
-
 <p align="center">
-#### Windows 11 Pro no Domínio ####
+  <b>#### Windows 11 Pro no Domínio ####</b>
 </p>
 
 <p align="center">
-  <img src="./imgs/win11indomain.png" width="600" title="Teste de Ping">
-</p>
-
-
-<p align="center">
-#### Interoperabilidade com Samba (SMBD) ####
+  <img src="./imgs/win11indomain.png" width="600" title="Windows no AD">
 </p>
 
 <p align="center">
-  <img src="./imgs/InteroperabilidadeSamba.png" width="600" title="Teste de Ping">
+  <b>#### Interoperabilidade com Samba (SMBD) ####</b>
 </p>
 
 <p align="center">
-#### Virt-Manager (VMs e Rede Isolada) ####
+  <img src="./imgs/InteroperabilidadeSamba.png" width="600" title="Compartilhamento Samba">
 </p>
 
 <p align="center">
-  <img src="./imgs/virtmanagervms.png" width="600" title="Teste de Ping">
+  <b>#### Virt-Manager (VMs e Rede Isolada) ####</b>
+</p>
+
+<p align="center">
+  <img src="./imgs/virtmanagervms.png" width="600" title="Gerenciador de VMs">
 </p>
  
- <p align="center">
-  <img src="./imgs/redeisolada.png" width="600" title="Teste de Ping">
+<p align="center">
+  <img src="./imgs/redeisolada.png" width="600" title="Configuração de Rede">
 </p>
