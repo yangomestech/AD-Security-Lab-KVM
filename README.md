@@ -66,22 +66,15 @@ No Windows Server, instalar a Role de AD DS via Server Manager.
 <p align="center">
   <img src="./imgs/linuxpingserver.png" width="600" title="Teste de Ping">
 </p>
-<p align="center">
-    Host para Server 
-</p>
+
 
 <p align="center">
   <img src="./imgs/win11pinglinux.png" width="600" title="Teste de Ping">
 </p>
-<p align="center">
-    Workstation para Host 
-</p>
 
-#### Win11 no Domínio 
+
+#### Windows 11 Pro no Domínio
 
 <p align="center">
   <img src="./imgs/win11indomain.png" width="600" title="Teste de Ping">
-</p>
-<p align="center">
-    Workstation no Domínio 
 </p>
