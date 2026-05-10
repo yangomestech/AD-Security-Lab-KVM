@@ -15,7 +15,7 @@ Ambiente isolado para testes de GPO, auditoria de logs e simulação de infraest
   Workstation: Windows 11 Pro (192.168.125.20)  
   Rede: Isolada (192.168.125.0/24) com integração via Samba para transferência de arquivos.  
 
-##  3. Implementações Técnincas  
+##  3. Implementações Técnicas  
 
  Segregação de Tráfego: Configuração de interfaces virtuais isoladas no 
 Virt-Manager para garantir que o tráfego do laboratório não vaze para a 
@@ -62,16 +62,26 @@ No Windows Server, instalar a Role de AD DS via Server Manager.
 
 #### Teste de Conectividade (ICMP)
 
-<p align="center">
-    Host para Server 
-</p>
+
 <p align="center">
   <img src="./imgs/linuxpingserver.png" width="600" title="Teste de Ping">
 </p>
+<p align="center">
+    Host para Server 
+</p>
 
+<p align="center">
+  <img src="./imgs/win11pinglinux.png" width="600" title="Teste de Ping">
+</p>
 <p align="center">
     Workstation para Host 
 </p>
+
+#### Win11 no Domínio 
+
 <p align="center">
-  <img src="./imgs/win11pinglinux.png" width="600" title="Teste de Ping">
+  <img src="./imgs/win11indomain.png" width="600" title="Teste de Ping">
+</p>
+<p align="center">
+    Workstation no Domínio 
 </p>
