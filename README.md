@@ -45,11 +45,6 @@ de conta Microsoft e conexão à internet durante a instalação do Windows
 
 5. Como Reproduzir
 
-Diagnóstico de conectividade: Identifiquei que o tráfego ICMP (Ping) estava sendo descartado pelo Firewall do Windows, mesmo com a interface de rede virtual corretamente vinculada ao Host. Corrigi isso ajustando as regras de entrada para validar a comunicação entre as VMs.
-
-
-5. Como Reproduzir
-
 -1 Hypervisor: Instalar virt-manager e qemu-kvm no Linux Host.
 
 -2 Rede: Criar uma rede virtual isolada no Virt-Manager com o range 192.168.125.0/24.
