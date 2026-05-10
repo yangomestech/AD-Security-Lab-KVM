@@ -59,8 +59,9 @@ No Windows Server, instalar a Role de AD DS via Server Manager.
 
 
 ### Evidências Técnicas
-
-#### Teste de Conectividade (ICMP)
+<p align="center">
+#### Teste de Conectividade (ICMP) ####
+</p>
 
 
 <p align="center">
@@ -73,20 +74,26 @@ No Windows Server, instalar a Role de AD DS via Server Manager.
 </p>
 
 
-#### Windows 11 Pro no Domínio
+<p align="center">
+#### Windows 11 Pro no Domínio ####
+</p>
 
 <p align="center">
   <img src="./imgs/win11indomain.png" width="600" title="Teste de Ping">
 </p>
 
 
-#### Interoperabilidade com Samba (SMBD)
+<p align="center">
+#### Interoperabilidade com Samba (SMBD) ####
+</p>
 
 <p align="center">
   <img src="./imgs/InteroperabilidadeSamba.png" width="600" title="Teste de Ping">
 </p>
 
-#### Virt-Manager (VMs e Rede Isolada)
+<p align="center">
+#### Virt-Manager (VMs e Rede Isolada) ####
+</p>
 
 <p align="center">
   <img src="./imgs/virtmanagervms.png" width="600" title="Teste de Ping">
