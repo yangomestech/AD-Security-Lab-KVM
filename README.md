@@ -62,12 +62,15 @@ No Windows Server, instalar a Role de AD DS via Server Manager.
 
 #### Teste de Conectividade (ICMP)
 
-##### Host para Server
-<p align="center">
+<p aling="center"> 
+Host para Server
+</p> <p align="center">
   <img src="./imgs/linuxpingserver.png" width="600" title="Teste de Ping">
 </p>
 
-##### Workstation para Host
+<p aling="center"> 
+Workstation para Host
+</p> 
 <p align="center">
-  <img src="./imgs/linuxpingserver.png" width="600" title="Teste de Ping">
+  <img src="./imgs/win11pinglinux.png" width="600" title="Teste de Ping">
 </p>
