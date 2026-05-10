@@ -61,6 +61,7 @@ No Windows Server, instalar a Role de AD DS via Server Manager.
 ### Evidências Técnicas
 
 #### Teste de Conectividade (ICMP)
+Host para VM Server
 ![Teste de Ping entre Host e VM Server](./imgs/linuxpingserver.png)
-
+VM Win 11 Pro para Host
 ![Teste de Ping entre VM Win11 Pro e Host](./imgs/win11pinglinux.png)
