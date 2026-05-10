@@ -69,6 +69,6 @@ VM Win 11 Pro para Host
 
 
 <p align="center">
-  <img src="./img/linuxpingserver.png" width="600" title="Teste de Ping">
+  <img src="./imgs/linuxpingserver.png" width="600" title="Teste de Ping">
 </p>
 >>>>>>> 316bf94 (add pretty image)
