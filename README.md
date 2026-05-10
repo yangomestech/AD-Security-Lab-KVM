@@ -56,3 +56,11 @@ No Windows Server, instalar a Role de AD DS via Server Manager.
 -4 Conectividade: Fixar IPs estáticos e apontar o DNS da Workstation para o IP do Domain Controller.
 
 -5 Integração: Configurar o serviço smbd no Linux e ajustar o gpedit.msc no Windows para habilitar logons de convidado.
+
+
+### Evidências Técnicas
+
+#### Teste de Conectividade (ICMP)
+![Teste de Ping entre Host e VM Server](./imgs/linuxpingserver.png)
+
+![Teste de Ping entre VM Win11 Pro e Host](./imgs/win11pinglinux.png)
